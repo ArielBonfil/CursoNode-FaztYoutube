@@ -1,0 +1,29 @@
+{
+  "name": "cursonode-faztyoutube",
+  "version": "0.0.1",
+  "description": "Curso nodeJS de Fazt youtube",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielBonfil/CursoNode-FaztYoutube.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso"
+  ],
+  "author": "ArielBonfil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielBonfil/CursoNode-FaztYoutube/issues"
+  },
+  "homepage": "https://github.com/ArielBonfil/CursoNode-FaztYoutube#readme"
+}
